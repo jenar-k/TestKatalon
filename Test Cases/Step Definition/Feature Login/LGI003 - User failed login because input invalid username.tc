@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LGI003 - User failed login because input invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd5fdb39-03e0-471e-aeaf-668dad8aa882</testCaseGuid>
+</TestCaseEntity>
