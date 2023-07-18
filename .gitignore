@@ -9,3 +9,4 @@ Reports/
 .classpath
 bin/
 Libs/
+.cache/
